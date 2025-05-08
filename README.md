@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthonyjomarq
 - 👀 I’m interested in programming and esports.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently becoming a full stack developer.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me gmail: anthonyjomar441@gmail.com
 
