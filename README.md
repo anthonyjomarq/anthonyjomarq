@@ -2,15 +2,13 @@
 
 I am a Full-Stack Developer from Puerto Rico. Welcome to my profile. I am a competitive gamer constantly building and improving my skills through real projects.
 
-**Open Source?** Yes!
-
 ---
 
 ## My Focus
 
 - Building full-stack applications with React, Node.js & PostgreSQL
 - Mobile development with React Native & Expo
-- Contribution to Open Source projects
+- Build real impactful projects
 - Getting adept at Data Structures and Algorithms
 
 ---
